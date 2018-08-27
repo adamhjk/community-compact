@@ -51,7 +51,7 @@ desire that new communities form. Such communities require a new name,
 and a new, independent support model.
 
 [BUSINESS] must remain a good, true, and honest steward of the Community,
-or loose all the privileges outlined in this compact.
+or lose all the privileges outlined in this compact.
 
 ## Software License
 
