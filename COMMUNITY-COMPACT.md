@@ -109,8 +109,8 @@ In addition, the [BUSINESS] will produce a separate, identical, "non-community"
 (or "nc") build. This build will have no legal restrictions on it's use. It
 will, however, have a moral and ethical restriction: use of this build of the
 software for commercial purposes is seen as a direct violation of the community
-compact, as the organizations profiting from the communities labor do not
-support the communities continued health and existence.
+compact, as the organizations profiting from the community's labor do not
+support the community's continued health and existence.
 
 On a 3/4 vote from the Maintainers, known violators of this clause of the
 Compact will be added to a FREELOADERS file in the software repository.
@@ -131,12 +131,12 @@ services subscription from [BUSINESS].
 ## Consulting License
 
 As the community grows, the desire for consulting businesses may also grow. The
-communities desire is that, if you intend to make money on the [SOFTWARE] through
+community's desire is that, if you intend to make money on the [SOFTWARE] through
 consulting and support, you contribute to the community through purchasing a
 consulting license subscription from [BUSINESS].
 
 We ask that all members of the community utilizing consulting businesses do so
-from only those organizations committed to the communities growth and health.
+from only those organizations committed to the community's growth and health.
 
 ## Contributor Exception
 
