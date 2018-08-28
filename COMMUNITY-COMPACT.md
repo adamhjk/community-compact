@@ -27,7 +27,7 @@ which sells goods and services related to the software, in order to
 further sustain and grow the community and the software.
 
 [BUSINESS] will sell a distribution of [SOFTWARE] with commercial terms,
-enforced by its trademark on [SOFTWARE]. It will also, at it's option,
+enforced by its trademark on [SOFTWARE]. It will also, at its option,
 provide a Network Service (SaaS) or Consulting and Support. Competitive
 Network Services or Consulting offerings require a special license. An 
 exception is granted to significant contributors to the software, as
@@ -95,9 +95,9 @@ protect the [SOFTWARE] and the [COMMUNITY] in the event of patent litigation.
 
 ## Distribution License
 
-[BUSINESS] will create and maintain the communities official distributions of
+[BUSINESS] will create and maintain the community's official distributions of
 the [SOFTWARE].  As part of the creation of a business to sustain the
-community, [BUSINESS] will have separate licensing terms for use of it's
+community, [BUSINESS] will have separate licensing terms for use of its
 distribution of the [SOFTWARE].
 
 This is to ensure [BUSINESS] has a viable option for monetization of the
