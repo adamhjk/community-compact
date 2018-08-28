@@ -8,7 +8,7 @@ plus of my life working to build an open source company at Chef Software. Over
 that time, I've made plenty of mistakes, experimented with various models, and
 watched with keen interest as others did the same. I belive that the biggest
 thing lacking from the conversation right now is a focus on where the power 
-of an open source business really lies: it's community. 
+of an open source business really lies: its community. 
 
 Instead, we're focused on ways to eliminate bad actors - large service
 providers (Amazon, Microsoft, Google, etc.) building services out of your
@@ -31,7 +31,7 @@ distribution licensing, and terms of service, to create:
    * The right for any member of the community to decide they no longer wish
      to abide by the Compact, and start a new, competing community or business
 
-I believe the result is a sustainable business model, not in conflict with it's
+I believe the result is a sustainable business model, not in conflict with its
 community, but in harmony with it. One that allows us to open source all of the
 software we produce, create large businesses around them, but which binds us
 together with rules of behavior we all agree to up front.
@@ -47,7 +47,7 @@ For the impatient, here is how it works:
   * That business registers the trademark for the software
   * The business puts commercial terms on the communities official
     distribution, a-la "Red Hat Enterprise Linux". It also can create a Network
-    Service (SaaS) and a Consulting Business. It uses it's trademark policy and
+    Service (SaaS) and a Consulting Business. It uses its trademark policy and
     a distribution license to do so, not the software license. 
   * The business produces a "non-community" build, identical to the official one.
     However, it lacks any of the business restrictions. It does have moral
