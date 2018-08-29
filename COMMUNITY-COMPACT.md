@@ -4,12 +4,12 @@
 
 This document describes the social contract which defines the community around
 the "[SOFTWARE]" piece of open source software. It lays out the moral and
-political rules the community agrees to in order to ensure a long, healthy,
+ethical rules the community agrees to in order to ensure a long, healthy,
 sustainable life for that software.
 
 It is not a legal agreement, although sections of it likely reference legal
 agreements. It is a moral and ethical one - it is the foundation upon which all 
-communities appear. 
+communities are built. 
 
 By joining the community, you agree to the rules outlined in this compact.
 
@@ -46,12 +46,17 @@ without any mention of [SOFTWARE] trademark or branding.
 
 This is not a hostile act - it is a recognition of the symbiotic relationship
 between the [BUSINESS] and the Community. Ultimately, both exist to serve the
-[SOFTWARE], and if that cannot be reconciled, it is our desire collective
+[SOFTWARE], and if that cannot be reconciled, it is our collective
 desire that new communities form. Such communities require a new name,
 and a new, independent support model.
 
 [BUSINESS] must remain a good, true, and honest steward of the Community,
 or loose all the privileges outlined in this compact.
+
+[BUSINESS] will provide a mechanism whereby a build of the [SOFTWARE]
+can be created with a user-supplied name in place of the [SOFTWARE]'s
+trademarks. These builds will only have the terms of the Software License
+applied to them.
 
 ## Software License
 
@@ -72,7 +77,7 @@ single entity can own the [SOFTWARE].
 ## Contribution
 
 The community accepts contributions according to the [MAINTENANCE POLICY]. A
-list of named Maintainers] will be kept with the source code. Maintainers
+list of named Maintainers will be kept with the source code. Maintainers
 may be called upon to vote from time to time, according to the [VOTING POLICY].
 
 The [SOFTWARE] belongs to the community, and as such, the Maintainers have the
@@ -97,7 +102,7 @@ protect the [SOFTWARE] and the [COMMUNITY] in the event of patent litigation.
 
 [BUSINESS] will create and maintain the communities official distributions of
 the [SOFTWARE].  As part of the creation of a business to sustain the
-community, [BUSINESS] will have separate licensing terms for use of it's
+community, [BUSINESS] will have separate licensing terms for use of this 
 distribution of the [SOFTWARE].
 
 This is to ensure [BUSINESS] has a viable option for monetization of the
