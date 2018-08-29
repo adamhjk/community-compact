@@ -27,7 +27,7 @@ which sells goods and services related to the software, in order to
 further sustain and grow the community and the software.
 
 [BUSINESS] will sell a distribution of [SOFTWARE] with commercial terms,
-enforced by its trademark on [SOFTWARE]. It will also, at it's option,
+enforced by its trademark on [SOFTWARE]. It will also, at its option,
 provide a Network Service (SaaS) or Consulting and Support. Competitive
 Network Services or Consulting offerings require a special license. An 
 exception is granted to significant contributors to the software, as
@@ -51,7 +51,7 @@ desire that new communities form. Such communities require a new name,
 and a new, independent support model.
 
 [BUSINESS] must remain a good, true, and honest steward of the Community,
-or loose all the privileges outlined in this compact.
+or lose all the privileges outlined in this compact.
 
 [BUSINESS] will provide a mechanism whereby a build of the [SOFTWARE]
 can be created with a user-supplied name in place of the [SOFTWARE]'s
@@ -100,7 +100,7 @@ protect the [SOFTWARE] and the [COMMUNITY] in the event of patent litigation.
 
 ## Distribution License
 
-[BUSINESS] will create and maintain the communities official distributions of
+[BUSINESS] will create and maintain the community's official distributions of
 the [SOFTWARE].  As part of the creation of a business to sustain the
 community, [BUSINESS] will have separate licensing terms for use of this 
 distribution of the [SOFTWARE].
@@ -114,8 +114,8 @@ In addition, the [BUSINESS] will produce a separate, identical, "non-community"
 (or "nc") build. This build will have no legal restrictions on it's use. It
 will, however, have a moral and ethical restriction: use of this build of the
 software for commercial purposes is seen as a direct violation of the community
-compact, as the organizations profiting from the communities labor do not
-support the communities continued health and existence.
+compact, as the organizations profiting from the community's labor do not
+support the community's continued health and existence.
 
 On a 3/4 vote from the Maintainers, known violators of this clause of the
 Compact will be added to a FREELOADERS file in the software repository.
@@ -136,12 +136,12 @@ services subscription from [BUSINESS].
 ## Consulting License
 
 As the community grows, the desire for consulting businesses may also grow. The
-communities desire is that, if you intend to make money on the [SOFTWARE] through
+community's desire is that, if you intend to make money on the [SOFTWARE] through
 consulting and support, you contribute to the community through purchasing a
 consulting license subscription from [BUSINESS].
 
 We ask that all members of the community utilizing consulting businesses do so
-from only those organizations committed to the communities growth and health.
+from only those organizations committed to the community's growth and health.
 
 ## Contributor Exception
 
@@ -152,6 +152,3 @@ Contributors to the software or community may request a reduced price ($1 USD, o
 equivalent) Network Services Subscription or Consulting License from the
 Maintainers. It will be granted by the [BUSINESS] on a 3/4 vote by the
 Maintainers. 
-
-
-
