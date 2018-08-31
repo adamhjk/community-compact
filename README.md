@@ -6,7 +6,7 @@ The recent conversations around the difficulties in finding a sustainable
 open source business model are close to my heart. I have spent the last decade
 plus of my life working to build an open source company at Chef Software. Over
 that time, I've made plenty of mistakes, experimented with various models, and
-watched with keen interest as others did the same. I belive that the biggest
+watched with keen interest as others did the same. I believe that the biggest
 thing lacking from the conversation right now is a focus on where the power 
 of an open source business really lies: its community. 
 
@@ -36,15 +36,16 @@ community, but in harmony with it. One that allows us to open source all of the
 software we produce, create large businesses around them, but which binds us
 together with rules of behavior we all agree to up front.
 
-It produces software that complies with the Open Source Definiton and the
-Free Software Foundations Four Freedoms.
+It produces software that complies with the 
+[Open Source Definiton](https://opensource.org/osd) and the 
+[Free Software Foundations Four Freedoms](https://www.gnu.org/philosophy/free-sw.en.html).
 
 For the impatient, here is how it works:
 
   * All the software is licensed under an OSI approved license.
   * All copyrights are licensed to each other, not assigned.
   * A business is formed for the sustainability of the software and the community.
-  * That business registers the trademark for the software
+  * That business registers the trademark for the software.
   * The business puts commercial terms on the communities official
     distribution, a-la "Red Hat Enterprise Linux". It also can create a Network
     Service (SaaS) and a Consulting Business. It uses its trademark policy and
