@@ -24,6 +24,13 @@ those who evangelize its use, and those who use the software. It is this
 right that creates the basis for a functioning community, one where we all
 have equal opportunity to participate and evolve the software.
 
+We also believe that, in order to have the most impact, our software and 
+community must be economically and ethically sustainable. We have a firm 
+commitment to building that sustainability in harmony with the rights to 
+share, study, and modify the software.
+
+### Who We Are
+
 We believe that the community encompases every person and organization who has 
 a relationship with the software, regardless of the nature of that relationship.
 We make no distinction between those who write the software, who ship the
@@ -31,11 +38,7 @@ software, who build businesses on the software, or who participate in the many
 activities required to sustain the community. We are a single, holistic community
 bound together by the common desire to see the software grow and improve.
 
-We believe that, should portions of the community be unable to co-exist with
-one another, that they have the right to take the software and form a new
-community. They can do so safe in the knowledge that it is not seen as an act
-of hostility - instead, it is the ultimate expression of our belief that
-everyone has the right to share, study, and modify the software.
+### Building a Sustainable Business
 
 We believe that the software we produce has value, and as that value is used to
 create wealth, a portion of that wealth should be used to foster and sustain
@@ -44,9 +47,11 @@ business ([BUSINESS]), which will sell goods and services related to the
 software. In return for this privilege, [BUSINESS] commits that all software it
 creates will be made available to the community under an open source license.
 
-Should [BUSINESS] cease to be an acceptable member of the community, it is the
-expectation that the community will exercise its right to fork, and will create
-a new model for ensuring its sustainability.
+Should [BUSINESS] cease to be an acceptable member of the community, we believe 
+that the community has the right to take the software, form a new community, and 
+create a new sustainability model. They can do so safe in the knowledge that it 
+is not seen as an act of hostility - instead, it is the ultimate expression of 
+our belief that everyone has the right to share, study, and modify the software.
 
 ## Details
 
