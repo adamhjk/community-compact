@@ -155,9 +155,6 @@ final say on the source code.
 
 ### Contributor Exception
 
-Contributors to the software or community may request an exception to the
-FREELOADERS clause. It will be granted by by a 3/4 vote of the Maintainers.
-
 Contributors to the software or community may request a reduced price ($1 USD, or
 equivalent) Network Services Subscription or Consulting License from the
 Maintainers. It will be granted by the [BUSINESS] on a 3/4 vote by the
