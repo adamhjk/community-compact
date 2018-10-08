@@ -46,15 +46,12 @@ For the impatient, here is how it works:
   * All copyrights are licensed to each other, not assigned.
   * A business is formed for the sustainability of the software and the community.
   * That business registers the trademark for the software.
-  * The business puts commercial terms on the communities official
+  * The business puts commercial terms on the community's official
     distribution, a-la "Red Hat Enterprise Linux". It also can create a Network
     Service (SaaS) and a Consulting Business. It uses its trademark policy and
     a distribution license to do so, not the software license. 
-  * The business produces a "non-community" build, identical to the official one.
-    However, it lacks any of the business restrictions. It does have moral
-    and ethical ones - if you use it in a commercial context, the community
-    may add you to a FREELOADERS file in the software repository.
-  * Contributors can get an exception to the FREELOADERS clause.
+  * The business also produces a "non-community" build, which is identical to the 
+    official build but has no commercial restrictions.
   * Licenses can be sold by the business allowing the trademark to be used in
     competing Network Services or Consulting organizations.
   * An exception to the Network Services or Consulting license requirement for
