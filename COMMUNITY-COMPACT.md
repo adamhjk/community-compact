@@ -129,7 +129,7 @@ to further monetize the [SOFTWARE].
 
 If other parties wish to run network services around the [SOFTWARE], we ask
 that they contribute to the community through the purchase of a network
-services subscription from [BUSINESS], in order to use the communities
+services subscription from [BUSINESS], in order to use the community's
 trademark and official builds.
 
 ### Consulting License
@@ -138,7 +138,7 @@ As the community grows, the desire for consulting businesses may also grow. The
 community's desire is that, if you intend to make money on the [SOFTWARE] through
 consulting and support, you contribute to the community through purchasing a
 consulting license subscription from [BUSINESS], certifying that you are an
-organization who supports the community. This enables you to use the communities
+organization who supports the community. This enables you to use the community's
 trademarks and official builds.
 
 We ask that all members of the community utilizing consulting businesses do so
@@ -170,7 +170,7 @@ If [BUSINESS] decides to restrict the use of [SOFTWARE] in a way that members
 of the community disagree with, they have the right to exercise their freedoms
 under the software license, and create a new distribution of the software
 without any mention of [SOFTWARE] trademark or branding. This is not a hostile
-act - it is this communities desire that such new communities form, if an
+act - it is this community's desire that such new communities form, if an
 agreement cannot be reached. Such communities require a new name, and a new,
 independent support model.
 
