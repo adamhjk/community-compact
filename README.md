@@ -7,15 +7,15 @@ open source business model are close to my heart. I have spent the last decade
 plus of my life working to build an open source company at Chef Software. Over
 that time, I've made plenty of mistakes, experimented with various models, and
 watched with keen interest as others did the same. I believe that the biggest
-thing lacking from the conversation right now is a focus on where the power 
-of an open source business really lies: its community. 
+thing lacking from the conversation right now is a focus on where the power
+of an open source business really lies: its community.
 
 Instead, we're focused on ways to eliminate bad actors - large service
 providers (Amazon, Microsoft, Google, etc.) building services out of your
 product, consultants making money but not giving back, large companies using
 your software in mission critical ways, but refusing to see value in supporting
 its continued development, etc. All of the ways I've seen suggested so far
-involve eliminating or curtailing the communities rights to the software.
+involve eliminating or curtailing the community's rights to the software.
 
 I would like to propose another way, one which I think supports the creation
 of a sustainable community, with a sustainable business to support it, in harmony
