@@ -31,7 +31,7 @@ share, study, and modify the software.
 
 ### Who We Are
 
-We believe that the community encompases every person and organization who has 
+We believe that the community encompasses every person and organization who has 
 a relationship with the software, regardless of the nature of that relationship.
 We make no distinction between those who write the software, who ship the
 software, who build businesses on the software, or who participate in the many
@@ -177,7 +177,7 @@ independent support model.
 [BUSINESS] will provide a mechanism whereby a build of the [SOFTWARE]
 can be created with a user-supplied name in place of the [SOFTWARE]'s
 trademarks. These builds will only have the terms of the Software License
-applied to them. This ensures that the barriers to forking are not artifically
+applied to them. This ensures that the barriers to forking are not artificially
 high - it is a mechanism available to every member of the community, and a
 foundational right of the community upheld by the [BUSINESS].
  
