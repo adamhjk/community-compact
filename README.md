@@ -62,7 +62,7 @@ For the impatient, here is how it works:
 
 The intent is that this becomes a model for individual communities to build on
 top of. If you are interested in working with me to refine this idea, we've got
-it up in a github repository here - you're all welcome to come. I post this
+it up in a GitHub repository here - you're all welcome to come. I post this
 without any real editing, either - my intent is to start a discussion that
 leads a community process towards a final draft.
 
@@ -81,7 +81,7 @@ community) will follow.
 An important thing to realize when talking about these rules is that the
 justification for the rules does not need to come form some external force - 
 there isn't some master set of moral positions that are at play here. 
-Instead, the fact that everone in a given society agrees to the rules, based on
+Instead, the fact that everyone in a given society agrees to the rules, based on
 their own individual reasoning, is enough to justify the existence of the rule.
 
 So for example, if we all agree that in our community it is unacceptable to
